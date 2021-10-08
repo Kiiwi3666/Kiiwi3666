@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Kiiwi3666
+- 👋 Oi Me Chamo @Kiiwi3666
+- 🤖 Sou Um Desenvolvedor de Bots Para o Discord
 
 <div>
   <a href="https://beacons.ai/Kiiwi3666">
